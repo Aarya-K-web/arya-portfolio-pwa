@@ -1,0 +1,21 @@
+{
+  "name": "Arya Kshirsagar Portfolio",
+  "short_name": "Arya",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#050314",
+  "theme_color": "#00FFE0",
+  "description": "AI & ML Portfolio | Projects, Experience, Skills",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
